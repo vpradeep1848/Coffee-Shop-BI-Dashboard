@@ -97,4 +97,4 @@ This dashboard is built on transactional coffee shop sales data and delivers a s
 
 ## 📷 Dashboard Preview
 
-*(Add a screenshot of your dashboard here — e.g. `![dashboard](./dashboard-preview.png)`)*
+<img src="./Dashboard_preview.png" alt="Coffee Shop Dashboard" width="800">
